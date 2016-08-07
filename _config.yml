@@ -1,14 +1,26 @@
-layout_spectrum: 0.3235844564624131
-typography_spectrum: 0.2508164532482624
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.17017343896441162
-  lightness: 0.16227044095285237
-  saturation: 0.6300190254114568
-  rhythmicContrast: 0.03266918333247304
+  saturation: 0.8924731
+  brandStrength: 1
+  lightness: 0.5089605
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  rhythmicContrast: 0.1989247
+typography_spectrum: 0.4462366
+layout_spectrum: 0.9623656
 name: Tandrom rathner
