@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8924731
+  saturation: 0.4982079
   brandStrength: 1
-  lightness: 0.5089605
+  lightness: 0.2437276
   brandColors:
     - '#2F2933'
     - '#01A2A6'
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
-  rhythmicContrast: 0.1989247
+  rhythmicContrast: 0
 typography_spectrum: 0.4462366
-layout_spectrum: 0.9623656
+layout_spectrum: 0.8046595
 name: Tandrom rathner
